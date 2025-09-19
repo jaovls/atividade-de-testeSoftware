@@ -14,5 +14,13 @@
   },
   "devDependencies": {
     "jest": "^30.1.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaovls/atividade-de-testeSoftware.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jaovls/atividade-de-testeSoftware/issues"
+  },
+  "homepage": "https://github.com/jaovls/atividade-de-testeSoftware#readme"
 }

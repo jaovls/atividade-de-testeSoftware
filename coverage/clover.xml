@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1758249571474" clover="3.2.0">
+  <project timestamp="1758249571474" name="All files">
+    <metrics statements="15" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="9" coveredmethods="4" elements="24" coveredelements="11" complexity="0" loc="15" ncloc="15" packages="1" files="1" classes="1"/>
+    <file name="atividade.js" path="C:\Users\João Vitor\Desktop\atividade-de-testeSoftware\atividade.js">
+      <metrics statements="15" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="9" coveredmethods="4"/>
+      <line num="3" count="2" type="stmt"/>
+      <line num="8" count="5" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="14" count="1" type="stmt"/>
+      <line num="15" count="1" type="stmt"/>
+      <line num="20" count="0" type="stmt"/>
+      <line num="25" count="0" type="stmt"/>
+      <line num="30" count="0" type="stmt"/>
+      <line num="31" count="0" type="stmt"/>
+      <line num="36" count="0" type="stmt"/>
+      <line num="37" count="0" type="stmt"/>
+      <line num="42" count="1" type="stmt"/>
+      <line num="47" count="0" type="stmt"/>
+      <line num="48" count="0" type="stmt"/>
+      <line num="51" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
